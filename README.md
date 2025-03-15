@@ -12,7 +12,7 @@ Even though lots of people download and use the Flextrade app, not everyone ends
 **Lots Of Competition** - there are many other shopping apps out there , so Flextrade needs to standout.
 
 ##DATA SET:
-**Data source** -
+**Data source** - <a href="https://github.com/TawakalituOdebode/UX_-EXPERIENCE_ANALYSIS/blob/main/FlexTrade%20(1).xlsx">Dataset</a> 
 **Data Description**
 This case study contains 3 datasets;
 ### **1. App Analytics Data**
