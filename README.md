@@ -85,6 +85,10 @@ This case study contains 3 datasets;
 6. KPI’s  and key questions were calculated using the pivot table.
    
 ---
+## DASHBOARD
+![flextrade shopping online dashboard](https://github.com/user-attachments/assets/f38fe7d2-3be5-4dc0-a516-b97b514c28e3)
+
+---
 
 ## KEY INSIGHTS AND RECOMMENDATIONS:
 - With an Industry average bounce rate of 38.70%, the high bounce rate of 49% exhibited by flextrade App indicates that many users leave the site without taking further actions. This suggests a possible UX issue in the early stages of user browsing.
