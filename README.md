@@ -83,7 +83,9 @@ This case study contains 3 datasets;
 5. Create a `Time of Day` column using the `IFS` function:
    =IFS([@[Hour of Day]] >= 21, "Night", [@[Hour of Day]] >= 17, "Evening", [@[Hour of Day]] >= 12, "Afternoon", [@[Hour of Day]] < 12, "Morning")
 6. KPI’s  and key questions were calculated using the pivot table.
-   
+
+   ![key performance indicator](https://github.com/user-attachments/assets/a894122c-397d-4cc5-a992-fe5b67ec7883)
+  
 ---
 ## DASHBOARD
 ![flextrade shopping online dashboard](https://github.com/user-attachments/assets/f38fe7d2-3be5-4dc0-a516-b97b514c28e3)
